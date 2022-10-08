@@ -1,4 +1,5 @@
 # HacktoberFest 2022
 
 
-This is a Repository for HacktoberFest 2022 
+
+A repository for Hacktober Fest contributions. Everyone is welcome. Fork away!
